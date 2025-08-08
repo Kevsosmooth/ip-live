@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
 
 # === Major Networks ===
 #EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="Major Networks",ABC 25 Columbia
