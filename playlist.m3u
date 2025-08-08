@@ -1,279 +1,279 @@
-#EXTM3U
+#EXTM3U url-tvg=“https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml”
 
-#EXTINF:-1 group-title=“Major Networks”,ABC 25 Columbia
+#EXTINF:-1 tvg-id=“ABC.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png” group-title=“Major Networks”,ABC 25 Columbia
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title=“Major Networks”,CBS East (720p)
+#EXTINF:-1 tvg-id=“CBS.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-us.png” group-title=“Major Networks”,CBS East (720p)
 https://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title=“Major Networks”,WNBC-DT1
+#EXTINF:-1 tvg-id=“NBC.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png” group-title=“Major Networks”,WNBC-DT1
 https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title=“Major Networks”,WNYW-DT1
+#EXTINF:-1 tvg-id=“FOX.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png” group-title=“Major Networks”,WNYW-DT1
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title=“Major Networks”,WGN-DT1 (720p)
+#EXTINF:-1 tvg-id=“WGN.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wgn-america-us.png” group-title=“Major Networks”,WGN-DT1 (720p)
 https://fl3.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title=“Major Networks”,ION TV East
+#EXTINF:-1 tvg-id=“IONTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-television-us.png” group-title=“Major Networks”,ION TV East
 https://fl3.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 group-title=“Major Networks”,ION Plus East (720p)
+#EXTINF:-1 tvg-id=“IONPlus.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-plus-us.png” group-title=“Major Networks”,ION Plus East (720p)
 https://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title=“Major Networks”,Cozi TV
+#EXTINF:-1 tvg-id=“CoziTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png” group-title=“Major Networks”,Cozi TV
 https://fl3.moveonjoy.com/COZI_TV/index.m3u8
 
-#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+#EXTINF:-1 tvg-id=“FoxNewsChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png” group-title=“News”,Fox News Channel (720p)
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+#EXTINF:-1 tvg-id=“FoxNewsChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png” group-title=“News”,Fox News Channel (720p)
 https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+#EXTINF:-1 tvg-id=“FoxNewsChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png” group-title=“News”,Fox News Channel (720p)
 https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+#EXTINF:-1 tvg-id=“FoxNewsChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png” group-title=“News”,Fox News Channel (720p)
 https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+#EXTINF:-1 tvg-id=“FoxNewsChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png” group-title=“News”,Fox News Channel (720p)
 https://fl6.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“News”,BBC News North America
+#EXTINF:-1 tvg-id=“BBCNewsNorthAmerica.uk” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png” group-title=“News”,BBC News North America
 https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title=“News”,Bloomberg TV
+#EXTINF:-1 tvg-id=“BloombergTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png” group-title=“News”,Bloomberg TV
 https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title=“News”,CNBC
+#EXTINF:-1 tvg-id=“CNBC.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png” group-title=“News”,CNBC
 https://fl3.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title=“News”,CNBC
+#EXTINF:-1 tvg-id=“CNBC.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png” group-title=“News”,CNBC
 https://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title=“News”,C-SPAN
+#EXTINF:-1 tvg-id=“CSPAN.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/c-span-us.png” group-title=“News”,C-SPAN
 https://fl3.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 group-title=“News”,News Nation (720p)
+#EXTINF:-1 tvg-id=“NewsNation.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsnation-us.png” group-title=“News”,News Nation (720p)
 https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title=“News”,Fox Business Network (720p)
+#EXTINF:-1 tvg-id=“FoxBusinessNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-network-us.png” group-title=“News”,Fox Business Network (720p)
 https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 
-#EXTINF:-1 group-title=“Sports”,ESPN U (720p)
+#EXTINF:-1 tvg-id=“ESPNU.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png” group-title=“Sports”,ESPN U (720p)
 https://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title=“Sports”,ESPNews (720p)
+#EXTINF:-1 tvg-id=“ESPNews.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png” group-title=“Sports”,ESPNews (720p)
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title=“Sports”,Fox Sports 1
+#EXTINF:-1 tvg-id=“FoxSports1.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png” group-title=“Sports”,Fox Sports 1
 https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title=“Sports”,NFL Network
+#EXTINF:-1 tvg-id=“NFLNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png” group-title=“Sports”,NFL Network
 https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Sports”,NFL RedZone
+#EXTINF:-1 tvg-id=“NFLRedZone.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-redzone-us.png” group-title=“Sports”,NFL RedZone
 https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 group-title=“Sports”,NBA TV
+#EXTINF:-1 tvg-id=“NBATV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png” group-title=“Sports”,NBA TV
 https://fl3.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title=“Sports”,MLB Network
+#EXTINF:-1 tvg-id=“MLBNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png” group-title=“Sports”,MLB Network
 https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Sports”,NHL Network (720p)
+#EXTINF:-1 tvg-id=“NHLNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png” group-title=“Sports”,NHL Network (720p)
 https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Sports”,Tennis Channel
+#EXTINF:-1 tvg-id=“TennisChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png” group-title=“Sports”,Tennis Channel
 https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“Sports”,CBS Sports Network USA
+#EXTINF:-1 tvg-id=“CBSSportsNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png” group-title=“Sports”,CBS Sports Network USA
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Sports”,Big Ten Network
+#EXTINF:-1 tvg-id=“BigTenNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png” group-title=“Sports”,Big Ten Network
 https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Sports”,ACCN (720p)
+#EXTINF:-1 tvg-id=“ACCNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png” group-title=“Sports”,ACCN (720p)
 https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Sports”,MSG
+#EXTINF:-1 tvg-id=“MSG.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png” group-title=“Sports”,MSG
 https://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title=“Sports”,SportsNet New York (540p)
+#EXTINF:-1 tvg-id=“SportsNetNewYork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-new-york-us.png” group-title=“Sports”,SportsNet New York (540p)
 https://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 group-title=“Sports”,Yes Network
+#EXTINF:-1 tvg-id=“YesNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png” group-title=“Sports”,Yes Network
 https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title=“Movies & Premium”,AMC East (1080p)
+#EXTINF:-1 tvg-id=“AMC.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png” group-title=“Movies & Premium”,AMC East (1080p)
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Showtime East
+#EXTINF:-1 tvg-id=“Showtime.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png” group-title=“Movies & Premium”,Showtime East
 https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Showtime 2 East
+#EXTINF:-1 tvg-id=“Showtime2.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png” group-title=“Movies & Premium”,Showtime 2 East
 https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Showtime Next East
+#EXTINF:-1 tvg-id=“ShowtimeNext.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png” group-title=“Movies & Premium”,Showtime Next East
 https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Showtime West (1080p)
+#EXTINF:-1 tvg-id=“ShowtimeWest.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png” group-title=“Movies & Premium”,Showtime West (1080p)
 https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Showtime Women East
+#EXTINF:-1 tvg-id=“ShowtimeWomen.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png” group-title=“Movies & Premium”,Showtime Women East
 https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Starz East
+#EXTINF:-1 tvg-id=“Starz.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png” group-title=“Movies & Premium”,Starz East
 https://fl3.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Starz West
+#EXTINF:-1 tvg-id=“StarzWest.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png” group-title=“Movies & Premium”,Starz West
 https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Starz Encore Classic East
+#EXTINF:-1 tvg-id=“StarzEncoreClassic.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-classic-us.png” group-title=“Movies & Premium”,Starz Encore Classic East
 https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,MGM+ East
+#EXTINF:-1 tvg-id=“MGMPlus.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png” group-title=“Movies & Premium”,MGM+ East
 https://fl3.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,MGM+ Marquee
+#EXTINF:-1 tvg-id=“MGMPlusMarquee.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-marquee-us.png” group-title=“Movies & Premium”,MGM+ Marquee
 https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,FXM East
+#EXTINF:-1 tvg-id=“FXM.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png” group-title=“Movies & Premium”,FXM East
 https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,OuterMax East (720p)
+#EXTINF:-1 tvg-id=“OuterMax.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outermax-us.png” group-title=“Movies & Premium”,OuterMax East (720p)
 https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Comet (720p)
+#EXTINF:-1 tvg-id=“Comet.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png” group-title=“Movies & Premium”,Comet (720p)
 https://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,GetTV (480p)
+#EXTINF:-1 tvg-id=“GetTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/gettv-us.png” group-title=“Movies & Premium”,GetTV (480p)
 https://fl3.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Grit
+#EXTINF:-1 tvg-id=“Grit.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png” group-title=“Movies & Premium”,Grit
 https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title=“Movies & Premium”,Start TV
+#EXTINF:-1 tvg-id=“StartTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/start-tv-us.png” group-title=“Movies & Premium”,Start TV
 https://fl3.moveonjoy.com/Start_Tv/index.m3u8
 
-#EXTINF:-1 group-title=“Entertainment”,Bravo East
+#EXTINF:-1 tvg-id=“Bravo.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png” group-title=“Entertainment”,Bravo East
 https://fl3.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,E! East
+#EXTINF:-1 tvg-id=“E.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-us.png” group-title=“Entertainment”,E! East
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,FX East
+#EXTINF:-1 tvg-id=“FX.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png” group-title=“Entertainment”,FX East
 https://fl5.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,FXX East
+#EXTINF:-1 tvg-id=“FXX.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png” group-title=“Entertainment”,FXX East
 https://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,Comedy Central East (720p)
+#EXTINF:-1 tvg-id=“ComedyCentral.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png” group-title=“Entertainment”,Comedy Central East (720p)
 https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,Paramount Network East
+#EXTINF:-1 tvg-id=“ParamountNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png” group-title=“Entertainment”,Paramount Network East
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,Syfy East
+#EXTINF:-1 tvg-id=“Syfy.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png” group-title=“Entertainment”,Syfy East
 https://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,Oxygen East
+#EXTINF:-1 tvg-id=“Oxygen.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png” group-title=“Entertainment”,Oxygen East
 https://fl3.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,VICE TV (720p)
+#EXTINF:-1 tvg-id=“ViceTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vice-tv-us.png” group-title=“Entertainment”,VICE TV (720p)
 https://fl3.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,Sundance TV East
+#EXTINF:-1 tvg-id=“SundanceTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png” group-title=“Entertainment”,Sundance TV East
 https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,Ovation (1080p)
+#EXTINF:-1 tvg-id=“Ovation.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ovation-us.png” group-title=“Entertainment”,Ovation (1080p)
 https://fl3.moveonjoy.com/Ovation/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,Reelz (720p)
+#EXTINF:-1 tvg-id=“Reelz.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/reelz-us.png” group-title=“Entertainment”,Reelz (720p)
 https://fl3.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 group-title=“Entertainment”,Buzzr
+#EXTINF:-1 tvg-id=“Buzzr.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzr-us.png” group-title=“Entertainment”,Buzzr
 https://fl3.moveonjoy.com/Buzzr/index.m3u8
 
-#EXTINF:-1 group-title=“Music”,MTV East
+#EXTINF:-1 tvg-id=“MTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png” group-title=“Music”,MTV East
 https://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title=“Music”,MTV2 (720p)
+#EXTINF:-1 tvg-id=“MTV2.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv2-us.png” group-title=“Music”,MTV2 (720p)
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title=“Music”,MTV2 East
+#EXTINF:-1 tvg-id=“MTV2.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv2-us.png” group-title=“Music”,MTV2 East
 https://fl3.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title=“Music”,MTV Classic (360p)
+#EXTINF:-1 tvg-id=“MTVClassic.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-classic-us.png” group-title=“Music”,MTV Classic (360p)
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title=“Music”,MTV Classic East (720p)
+#EXTINF:-1 tvg-id=“MTVClassic.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-classic-us.png” group-title=“Music”,MTV Classic East (720p)
 https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title=“Music”,MTV Live (720p)
+#EXTINF:-1 tvg-id=“MTVLive.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-live-us.png” group-title=“Music”,MTV Live (720p)
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title=“Music”,MTV Live
+#EXTINF:-1 tvg-id=“MTVLive.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-live-us.png” group-title=“Music”,MTV Live
 https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title=“Music”,mtvU (480p)
+#EXTINF:-1 tvg-id=“MTVU.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-u-us.png” group-title=“Music”,mtvU (480p)
 https://fl5.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title=“Music”,MTVU
+#EXTINF:-1 tvg-id=“MTVU.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-u-us.png” group-title=“Music”,MTVU
 https://fl3.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title=“Music”,VH1 East
+#EXTINF:-1 tvg-id=“VH1.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png” group-title=“Music”,VH1 East
 https://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title=“Music”,BET East
+#EXTINF:-1 tvg-id=“BET.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png” group-title=“Music”,BET East
 https://fl3.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 group-title=“Music”,BET Gospel
+#EXTINF:-1 tvg-id=“BETGospel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-gospel-us.png” group-title=“Music”,BET Gospel
 https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 group-title=“Music”,BET Jams
+#EXTINF:-1 tvg-id=“BETJams.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png” group-title=“Music”,BET Jams
 https://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 group-title=“Music”,BET Soul
+#EXTINF:-1 tvg-id=“BETSoul.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png” group-title=“Music”,BET Soul
 https://fl3.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title=“Music”,CMT East
+#EXTINF:-1 tvg-id=“CMT.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png” group-title=“Music”,CMT East
 https://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title=“Music”,Fuse East (720p)
+#EXTINF:-1 tvg-id=“Fuse.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fuse-us.png” group-title=“Music”,Fuse East (720p)
 https://fl3.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 group-title=“Music”,Nick Music (720p)
+#EXTINF:-1 tvg-id=“NickMusic.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-music-us.png” group-title=“Music”,Nick Music (720p)
 https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 group-title=“Music”,Nick Music (480p)
+#EXTINF:-1 tvg-id=“NickMusic.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-music-us.png” group-title=“Music”,Nick Music (480p)
 https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 group-title=“Music”,Revolt
+#EXTINF:-1 tvg-id=“Revolt.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/revolt-us.png” group-title=“Music”,Revolt
 https://fl3.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 group-title=“Music”,Fox Soul
+#EXTINF:-1 tvg-id=“FoxSoul.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soul-us.png” group-title=“Music”,Fox Soul
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 
-#EXTINF:-1 group-title=“Kids & Family”,Disney Channel East
+#EXTINF:-1 tvg-id=“DisneyChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png” group-title=“Kids & Family”,Disney Channel East
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 group-title=“Kids & Family”,Disney Junior East
+#EXTINF:-1 tvg-id=“DisneyJunior.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-junior-us.png” group-title=“Kids & Family”,Disney Junior East
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title=“Kids & Family”,Nickelodeon East
+#EXTINF:-1 tvg-id=“Nickelodeon.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png” group-title=“Kids & Family”,Nickelodeon East
 https://fl5.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title=“Kids & Family”,Nick Jr East
+#EXTINF:-1 tvg-id=“NickJr.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png” group-title=“Kids & Family”,Nick Jr East
 https://fl3.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title=“Kids & Family”,Nick Jr. East (720p)
+#EXTINF:-1 tvg-id=“NickJr.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png” group-title=“Kids & Family”,Nick Jr. East (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title=“Kids & Family”,Nicktoons East
+#EXTINF:-1 tvg-id=“Nicktoons.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nicktoons-us.png” group-title=“Kids & Family”,Nicktoons East
 https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title=“Kids & Family”,Free form East
+#EXTINF:-1 tvg-id=“Freeform.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png” group-title=“Kids & Family”,Free form East
 https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 
-#EXTINF:-1 group-title=“Educational & Documentary”,National Geographic East
+#EXTINF:-1 tvg-id=“NationalGeographic.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png” group-title=“Educational & Documentary”,National Geographic East
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title=“Educational & Documentary”,National Geographic Wild East
+#EXTINF:-1 tvg-id=“NationalGeographicWild.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-wild-us.png” group-title=“Educational & Documentary”,National Geographic Wild East
 https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title=“Educational & Documentary”,Smithsonian Channel East
+#EXTINF:-1 tvg-id=“SmithsonianChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/smithsonian-channel-us.png” group-title=“Educational & Documentary”,Smithsonian Channel East
 https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“Educational & Documentary”,CuriosityStream (720p)
+#EXTINF:-1 tvg-id=“CuriosityStream.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/curiositystream-us.png” group-title=“Educational & Documentary”,CuriosityStream (720p)
 https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title=“Educational & Documentary”,Love Nature
+#EXTINF:-1 tvg-id=“LoveNature.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-ca.png” group-title=“Educational & Documentary”,Love Nature
 https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-#EXTINF:-1 group-title=“Educational & Documentary”,BBC America East
+#EXTINF:-1 tvg-id=“BBCAmerica.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png” group-title=“Educational & Documentary”,BBC America East
 https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 group-title=“Lifestyle & Women”,Lifetime East
+#EXTINF:-1 tvg-id=“Lifetime.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png” group-title=“Lifestyle & Women”,Lifetime East
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,Lifetime Movies East
+#EXTINF:-1 tvg-id=“LifetimeMovies.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movie-network-us.png” group-title=“Lifestyle & Women”,Lifetime Movies East
 https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,BET Her East
+#EXTINF:-1 tvg-id=“BETHer.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png” group-title=“Lifestyle & Women”,BET Her East
 https://fl3.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,We TV East
+#EXTINF:-1 tvg-id=“WeTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png” group-title=“Lifestyle & Women”,We TV East
 https://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,Cleo TV (720p)
+#EXTINF:-1 tvg-id=“CleoTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png” group-title=“Lifestyle & Women”,Cleo TV (720p)
 https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,Hallmark Channel East
+#EXTINF:-1 tvg-id=“HallmarkChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png” group-title=“Lifestyle & Women”,Hallmark Channel East
 https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,Hallmark Drama (720p)
+#EXTINF:-1 tvg-id=“HallmarkDrama.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-drama-us.png” group-title=“Lifestyle & Women”,Hallmark Drama (720p)
 https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,Hallmark Movies Mysteries East
+#EXTINF:-1 tvg-id=“HallmarkMoviesMysteries.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-movies-and-mysteries-us.png” group-title=“Lifestyle & Women”,Hallmark Movies Mysteries East
 https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,FYI East
+#EXTINF:-1 tvg-id=“FYI.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png” group-title=“Lifestyle & Women”,FYI East
 https://fl3.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 group-title=“Lifestyle & Women”,Up TV (1080p)
+#EXTINF:-1 tvg-id=“UpTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/uptv-us.png” group-title=“Lifestyle & Women”,Up TV (1080p)
 https://fl3.moveonjoy.com/Up_Tv/index.m3u8
 
-#EXTINF:-1 group-title=“Shopping & Business”,QVC (720p)
+#EXTINF:-1 tvg-id=“QVC.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/qvc-us.png” group-title=“Shopping & Business”,QVC (720p)
 https://fl3.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 group-title=“Shopping & Business”,HSN
+#EXTINF:-1 tvg-id=“HSN.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hsn-us.png” group-title=“Shopping & Business”,HSN
 https://fl3.moveonjoy.com/HSN/index.m3u8
 
-#EXTINF:-1 group-title=“Court & Crime”,Court TV
+#EXTINF:-1 tvg-id=“CourtTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/court-tv-us.png” group-title=“Court & Crime”,Court TV
 https://fl3.moveonjoy.com/COURT_TV/index.m3u8
-#EXTINF:-1 group-title=“Court & Crime”,TV One
+#EXTINF:-1 tvg-id=“TVOne.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tv-one-us.png” group-title=“Court & Crime”,TV One
 https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 
-#EXTINF:-1 group-title=“Outdoor & Adventure”,Outdoor Channel
+#EXTINF:-1 tvg-id=“OutdoorChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png” group-title=“Outdoor & Adventure”,Outdoor Channel
 https://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“Outdoor & Adventure”,Outside TV
+#EXTINF:-1 tvg-id=“OutsideTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outside-tv-us.png” group-title=“Outdoor & Adventure”,Outside TV
 https://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 group-title=“Outdoor & Adventure”,Pursuit Channel (720p)
+#EXTINF:-1 tvg-id=“PursuitChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pursuit-channel-us.png” group-title=“Outdoor & Adventure”,Pursuit Channel (720p)
 https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 group-title=“Outdoor & Adventure”,Sportsman Channel
+#EXTINF:-1 tvg-id=“SportsmanChannel.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsman-channel-us.png” group-title=“Outdoor & Adventure”,Sportsman Channel
 https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“Outdoor & Adventure”,World Fishing Network
+#EXTINF:-1 tvg-id=“WorldFishingNetwork.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/world-fishing-network-us.png” group-title=“Outdoor & Adventure”,World Fishing Network
 https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“Outdoor & Adventure”,MAV TV (720p)
+#EXTINF:-1 tvg-id=“MAVTV.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mav-tv-us.png” group-title=“Outdoor & Adventure”,MAV TV (720p)
 https://fl3.moveonjoy.com/MAV_TV/index.m3u8
 
-#EXTINF:-1 group-title=“Specialty & Others”,Bounce
+#EXTINF:-1 tvg-id=“Bounce.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bounce-tv-us.png” group-title=“Specialty & Others”,Bounce
 https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 group-title=“Specialty & Others”,Aspire
+#EXTINF:-1 tvg-id=“Aspire.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/aspire-us.png” group-title=“Specialty & Others”,Aspire
 https://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 group-title=“Specialty & Others”,INSP
+#EXTINF:-1 tvg-id=“INSP.us” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/insp-us.png” group-title=“Specialty & Others”,INSP
 https://fl3.moveonjoy.com/INSP/index.m3u8
 
-#EXTINF:-1 group-title=“Canadian Content”,TSN1 (1080p)
+#EXTINF:-1 tvg-id=“TSN1.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png” group-title=“Canadian Content”,TSN1 (1080p)
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,TSN2
+#EXTINF:-1 tvg-id=“TSN2.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png” group-title=“Canadian Content”,TSN2
 https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,TSN3
+#EXTINF:-1 tvg-id=“TSN3.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png” group-title=“Canadian Content”,TSN3
 https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,TSN4
+#EXTINF:-1 tvg-id=“TSN4.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png” group-title=“Canadian Content”,TSN4
 https://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,TSN5
+#EXTINF:-1 tvg-id=“TSN5.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png” group-title=“Canadian Content”,TSN5
 https://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,Crave 1
+#EXTINF:-1 tvg-id=“Crave1.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png” group-title=“Canadian Content”,Crave 1
 https://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,Crave 2
+#EXTINF:-1 tvg-id=“Crave2.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png” group-title=“Canadian Content”,Crave 2
 https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,Crave 3
+#EXTINF:-1 tvg-id=“Crave3.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png” group-title=“Canadian Content”,Crave 3
 https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,Crave 4
+#EXTINF:-1 tvg-id=“Crave4.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png” group-title=“Canadian Content”,Crave 4
 https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,Much (720p)
+#EXTINF:-1 tvg-id=“Much.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/much-ca.png” group-title=“Canadian Content”,Much (720p)
 https://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 group-title=“Canadian Content”,W Network (720p)
+#EXTINF:-1 tvg-id=“WNetwork.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/w-network-ca.png” group-title=“Canadian Content”,W Network (720p)
 https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
