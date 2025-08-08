@@ -1,0 +1,52 @@
+============================================================
+LOGO CHECK REPORT
+============================================================
+Total logos checked: 149
+Working logos: 118
+Broken logos: 31
+Fixed logos: 31
+
+BROKEN LOGOS:
+----------------------------------------
+  - C-SPAN
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/c-span-us.png
+  - News Nation (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsnation-us.png
+  - Fox News Channel (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png
+  - CBS East (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-us.png
+  - Fox News Channel (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png
+  - Fox News Channel (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png
+  - Fox News Channel (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png
+  - ESPNews (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png
+  - Fox News Channel (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png
+  - Fox Business Network (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-network-us.png
+  - NFL RedZone
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-redzone-us.png
+  - SportsNet New York (540p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-new-york-us.png
+  - FXM East
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png
+  - OuterMax East (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outermax-us.png
+  - GetTV (480p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/gettv-us.png
+  - VICE TV (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vice-tv-us.png
+  - E! East
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-us.png
+  - MTV2 East
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv2-us.png
+  - MTV2 (720p)
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv2-us.png
+  - Disney Junior East
+    https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-junior-us.png
+
+Generated at: 2025-08-08 11:14:19
