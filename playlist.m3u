@@ -1,165 +1,279 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=“📺 Major Networks”,ABC 25 Columbia
+#EXTINF:-1 group-title=“Major Networks”,ABC 25 Columbia
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title=“📺 Major Networks”,CBS East (720p)
+#EXTINF:-1 group-title=“Major Networks”,CBS East (720p)
 https://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title=“📺 Major Networks”,WNBC-DT1
+#EXTINF:-1 group-title=“Major Networks”,WNBC-DT1
 https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title=“📺 Major Networks”,WNYW-DT1
+#EXTINF:-1 group-title=“Major Networks”,WNYW-DT1
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title=“Major Networks”,WGN-DT1 (720p)
+https://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title=“Major Networks”,ION TV East
+https://fl3.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title=“Major Networks”,ION Plus East (720p)
+https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title=“Major Networks”,Cozi TV
+https://fl3.moveonjoy.com/COZI_TV/index.m3u8
 
-#EXTINF:-1 group-title=“📰 News”,Fox News Channel (720p)
+#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“📰 News”,BBC News North America
+#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“News”,Fox News Channel (720p)
+https://fl6.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“News”,BBC News North America
 https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title=“📰 News”,Bloomberg TV
+#EXTINF:-1 group-title=“News”,Bloomberg TV
 https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title=“📰 News”,CNBC
+#EXTINF:-1 group-title=“News”,CNBC
 https://fl3.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title=“📰 News”,C-SPAN
+#EXTINF:-1 group-title=“News”,CNBC
+https://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title=“News”,C-SPAN
 https://fl3.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 group-title=“📰 News”,News Nation (720p)
+#EXTINF:-1 group-title=“News”,News Nation (720p)
 https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
-
-#EXTINF:-1 group-title=“🏈 Sports”,ESPN U (720p)
-https://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,ESPNews (720p)
-https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,Fox Sports 1
-https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,NFL Network
-https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,NFL RedZone
-https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,NBA TV
-https://fl3.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,MLB Network
-https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,NHL Network (720p)
-https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,Tennis Channel
-https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,CBS Sports Network USA
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,Big Ten Network
-https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“🏈 Sports”,ACCN (720p)
-https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title=“🎬 Movies & Premium”,AMC East (1080p)
-https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“🎬 Movies & Premium”,Showtime East
-https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title=“🎬 Movies & Premium”,Showtime 2 East
-https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title=“🎬 Movies & Premium”,Starz East
-https://fl3.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title=“🎬 Movies & Premium”,MGM+ East
-https://fl3.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title=“🎬 Movies & Premium”,FXM East
-https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title=“🎬 Movies & Premium”,Hallmark Channel East
-https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“🎬 Movies & Premium”,Hallmark Movies Mysteries East
-https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-
-#EXTINF:-1 group-title=“🎭 Entertainment”,Bravo East
-https://fl3.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title=“🎭 Entertainment”,E! East
-https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 group-title=“🎭 Entertainment”,FX East
-https://fl5.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title=“🎭 Entertainment”,FXX East
-https://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 group-title=“🎭 Entertainment”,Comedy Central East (720p)
-https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title=“🎭 Entertainment”,Paramount Network East
-https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“🎭 Entertainment”,Syfy East
-https://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title=“🎭 Entertainment”,Oxygen East
-https://fl3.moveonjoy.com/OXYGEN/index.m3u8
-
-#EXTINF:-1 group-title=“🎵 Music”,MTV East
-https://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title=“🎵 Music”,MTV2 East
-https://fl3.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title=“🎵 Music”,MTV Classic East (720p)
-https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title=“🎵 Music”,MTV Live
-https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title=“🎵 Music”,VH1 East
-https://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title=“🎵 Music”,BET East
-https://fl3.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 group-title=“🎵 Music”,BET Jams
-https://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 group-title=“🎵 Music”,CMT East
-https://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title=“🎵 Music”,Fuse East (720p)
-https://fl3.moveonjoy.com/FUSE/index.m3u8
-
-#EXTINF:-1 group-title=“👶 Kids & Family”,Disney Channel East
-https://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 group-title=“👶 Kids & Family”,Disney Junior East
-https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title=“👶 Kids & Family”,Nickelodeon East
-https://fl5.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title=“👶 Kids & Family”,Nick Jr East
-https://fl3.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title=“👶 Kids & Family”,Nicktoons East
-https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title=“👶 Kids & Family”,Free form East
-https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
-
-#EXTINF:-1 group-title=“📚 Educational & Documentary”,National Geographic East
-https://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title=“📚 Educational & Documentary”,National Geographic Wild East
-https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title=“📚 Educational & Documentary”,Smithsonian Channel East
-https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“📚 Educational & Documentary”,CuriosityStream (720p)
-https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title=“📚 Educational & Documentary”,Love Nature
-https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-
-#EXTINF:-1 group-title=“👩 Lifestyle & Women”,Lifetime East
-https://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 group-title=“👩 Lifestyle & Women”,Lifetime Movies East
-https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title=“👩 Lifestyle & Women”,BET Her East
-https://fl3.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 group-title=“👩 Lifestyle & Women”,We TV East
-https://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 group-title=“👩 Lifestyle & Women”,Cleo TV (720p)
-https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-
-#EXTINF:-1 group-title=“🛒 Shopping & Business”,QVC (720p)
-https://fl3.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 group-title=“🛒 Shopping & Business”,HSN
-https://fl3.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 group-title=“🛒 Shopping & Business”,Fox Business Network (720p)
+#EXTINF:-1 group-title=“News”,Fox Business Network (720p)
 https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 
-#EXTINF:-1 group-title=“🎯 Specialty & Others”,Court TV
-https://fl3.moveonjoy.com/COURT_TV/index.m3u8
-#EXTINF:-1 group-title=“🎯 Specialty & Others”,VICE TV (720p)
-https://fl3.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 group-title=“🎯 Specialty & Others”,Outdoor Channel
-https://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title=“🎯 Specialty & Others”,Grit
-https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title=“🎯 Specialty & Others”,Bounce
-https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 group-title=“🎯 Specialty & Others”,Comet (720p)
-https://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title=“Sports”,ESPN U (720p)
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title=“Sports”,ESPNews (720p)
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title=“Sports”,Fox Sports 1
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title=“Sports”,NFL Network
+https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Sports”,NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 group-title=“Sports”,NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title=“Sports”,MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Sports”,NHL Network (720p)
+https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Sports”,Tennis Channel
+https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“Sports”,CBS Sports Network USA
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Sports”,Big Ten Network
+https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Sports”,ACCN (720p)
+https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Sports”,MSG
+https://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title=“Sports”,SportsNet New York (540p)
+https://fl3.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 group-title=“Sports”,Yes Network
+https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title=“🇨🇦 Canadian Content”,TSN1 (1080p)
+#EXTINF:-1 group-title=“Movies & Premium”,AMC East (1080p)
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Showtime East
+https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Showtime 2 East
+https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Showtime Next East
+https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Showtime West (1080p)
+https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Showtime Women East
+https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Starz East
+https://fl3.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Starz West
+https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Starz Encore Classic East
+https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,MGM+ East
+https://fl3.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,MGM+ Marquee
+https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,FXM East
+https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,OuterMax East (720p)
+https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Comet (720p)
+https://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,GetTV (480p)
+https://fl3.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Grit
+https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 group-title=“Movies & Premium”,Start TV
+https://fl3.moveonjoy.com/Start_Tv/index.m3u8
+
+#EXTINF:-1 group-title=“Entertainment”,Bravo East
+https://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,E! East
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,FX East
+https://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,FXX East
+https://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,Comedy Central East (720p)
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,Paramount Network East
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,Syfy East
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,Oxygen East
+https://fl3.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,VICE TV (720p)
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,Sundance TV East
+https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,Ovation (1080p)
+https://fl3.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,Reelz (720p)
+https://fl3.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 group-title=“Entertainment”,Buzzr
+https://fl3.moveonjoy.com/Buzzr/index.m3u8
+
+#EXTINF:-1 group-title=“Music”,MTV East
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title=“Music”,MTV2 (720p)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title=“Music”,MTV2 East
+https://fl3.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title=“Music”,MTV Classic (360p)
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title=“Music”,MTV Classic East (720p)
+https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title=“Music”,MTV Live (720p)
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title=“Music”,MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title=“Music”,mtvU (480p)
+https://fl5.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 group-title=“Music”,MTVU
+https://fl3.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 group-title=“Music”,VH1 East
+https://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title=“Music”,BET East
+https://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title=“Music”,BET Gospel
+https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 group-title=“Music”,BET Jams
+https://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title=“Music”,BET Soul
+https://fl3.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title=“Music”,CMT East
+https://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title=“Music”,Fuse East (720p)
+https://fl3.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title=“Music”,Nick Music (720p)
+https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title=“Music”,Nick Music (480p)
+https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title=“Music”,Revolt
+https://fl3.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 group-title=“Music”,Fox Soul
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+
+#EXTINF:-1 group-title=“Kids & Family”,Disney Channel East
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title=“Kids & Family”,Disney Junior East
+https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title=“Kids & Family”,Nickelodeon East
+https://fl5.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title=“Kids & Family”,Nick Jr East
+https://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title=“Kids & Family”,Nick Jr. East (720p)
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title=“Kids & Family”,Nicktoons East
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title=“Kids & Family”,Free form East
+https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+
+#EXTINF:-1 group-title=“Educational & Documentary”,National Geographic East
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title=“Educational & Documentary”,National Geographic Wild East
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title=“Educational & Documentary”,Smithsonian Channel East
+https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“Educational & Documentary”,CuriosityStream (720p)
+https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 group-title=“Educational & Documentary”,Love Nature
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 group-title=“Educational & Documentary”,BBC America East
+https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 group-title=“Lifestyle & Women”,Lifetime East
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,Lifetime Movies East
+https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,BET Her East
+https://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,We TV East
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,Cleo TV (720p)
+https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,Hallmark Channel East
+https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,Hallmark Drama (720p)
+https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,Hallmark Movies Mysteries East
+https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,FYI East
+https://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title=“Lifestyle & Women”,Up TV (1080p)
+https://fl3.moveonjoy.com/Up_Tv/index.m3u8
+
+#EXTINF:-1 group-title=“Shopping & Business”,QVC (720p)
+https://fl3.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 group-title=“Shopping & Business”,HSN
+https://fl3.moveonjoy.com/HSN/index.m3u8
+
+#EXTINF:-1 group-title=“Court & Crime”,Court TV
+https://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 group-title=“Court & Crime”,TV One
+https://fl3.moveonjoy.com/TV_ONE/index.m3u8
+
+#EXTINF:-1 group-title=“Outdoor & Adventure”,Outdoor Channel
+https://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“Outdoor & Adventure”,Outside TV
+https://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 group-title=“Outdoor & Adventure”,Pursuit Channel (720p)
+https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 group-title=“Outdoor & Adventure”,Sportsman Channel
+https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title=“Outdoor & Adventure”,World Fishing Network
+https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 group-title=“Outdoor & Adventure”,MAV TV (720p)
+https://fl3.moveonjoy.com/MAV_TV/index.m3u8
+
+#EXTINF:-1 group-title=“Specialty & Others”,Bounce
+https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 group-title=“Specialty & Others”,Aspire
+https://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title=“Specialty & Others”,INSP
+https://fl3.moveonjoy.com/INSP/index.m3u8
+
+#EXTINF:-1 group-title=“Canadian Content”,TSN1 (1080p)
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title=“🇨🇦 Canadian Content”,TSN2
+#EXTINF:-1 group-title=“Canadian Content”,TSN2
 https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title=“🇨🇦 Canadian Content”,Crave 1
+#EXTINF:-1 group-title=“Canadian Content”,TSN3
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title=“Canadian Content”,TSN4
+https://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title=“Canadian Content”,TSN5
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title=“Canadian Content”,Crave 1
 https://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title=“🇨🇦 Canadian Content”,Much (720p)
+#EXTINF:-1 group-title=“Canadian Content”,Crave 2
+https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title=“Canadian Content”,Crave 3
+https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 group-title=“Canadian Content”,Crave 4
+https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 group-title=“Canadian Content”,Much (720p)
 https://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 group-title=“Canadian Content”,W Network (720p)
+https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
