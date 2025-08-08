@@ -277,3 +277,37 @@ https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 https://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 tvg-id=“WNetwork.ca” tvg-logo=“https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/w-network-ca.png” group-title=“Canadian Content”,W Network (720p)
 https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title=MoviesPremium,USA Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title=KidsFamily,USA Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title=EducationalDocumentary,USA Discovery
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title=MoviesPremium,USA AMC
+http://23.237.104.106:8080/USA_AMC/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" group-title=Entertainment,USA FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title=Entertainment,USA Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title=Entertainment,USA Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title=Music,USA MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" group-title=Music,USA VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title=Sports,USA FS1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title=Sports,USA FS2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title=Sports,USA NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title=KidsFamily,USA Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title=MoviesPremium,USA HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" group-title=MoviesPremium,USA HBO2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title=MoviesPremium,USA Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title=MoviesPremium,USA Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
