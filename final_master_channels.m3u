@@ -1,0 +1,282 @@
+#EXTM3U
+# Combined Master Channel List
+# Total Unique Channels: 133
+
+
+# === 23.237.104.106:8080 (67 channels) ===
+#EXTINF:-1,USA_BBC_NEWS
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+#EXTINF:-1,Usa 5Starmax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1,Usa Amc
+http://23.237.104.106:8080/USA_AMC/index.m3u8
+#EXTINF:-1,Usa Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1,Usa Bbc America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1,Usa Bloomberg
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1,Usa Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1,Usa Bounce
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1,Usa Btn
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1,Usa Buzzr
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1,Usa Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1,Usa Cbs Sports
+http://23.237.104.106:8080/USA_CBS_SPORTS/index.m3u8
+#EXTINF:-1,Usa Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1,Usa Cmt
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1,Usa Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1,Usa Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1,Usa Discovery
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1,Usa Disney Junior
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1,Usa Disney Xd
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1,Usa E
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1,Usa Espnu
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1,Usa Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1,Usa Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1,Usa Fox News
+http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+#EXTINF:-1,Usa Fs1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTINF:-1,Usa Fs2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1,Usa Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1,Usa Fx
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1,Usa Fxx
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1,Usa Hallmark
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1,Usa Hbo
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1,Usa Hbo Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1,Usa Hbo Family
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
+#EXTINF:-1,Usa Hbo Signature
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:-1,Usa Hbo Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1,Usa Hbo2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1,Usa Hln
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1,Usa Ifc
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1,Usa Lmn
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1,Usa Msg
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1,Usa Mtv
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1,Usa Mtv Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1,Usa Nat Geo
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1,Usa Nat Geo Wild
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:-1,Usa Nbc Sports
+http://23.237.104.106:8080/USA_NBC_SPORTS/index.m3u8
+#EXTINF:-1,Usa Nesn
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:-1,Usa Nfl Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1,Usa Nhl Network
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:-1,Usa Nick Jr
+http://23.237.104.106:8080/USA_NICK_JR/index.m3u8
+#EXTINF:-1,Usa Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1,Usa Oan
+http://23.237.104.106:8080/USA_OAN/index.m3u8
+#EXTINF:-1,Usa Own
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1,Usa Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1,Usa Reelz
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1,Usa Revolt
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:-1,Usa Science
+http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+#EXTINF:-1,Usa Sec Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1,Usa Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1,Usa Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1,Usa Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1,Usa Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1,Usa Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1,Usa Trutv
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1,Usa Tvone
+http://23.237.104.106:8080/USA_TVONE/index.m3u8
+#EXTINF:-1,Usa Vh1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1,Usa We Tv
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1,Usa Yes Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+# === a1xs.vip (30 channels) ===
+#EXTINF:-1 group-title="A1XS",A1Xs 100054
+https://a1xs.vip/100054
+#EXTINF:-1 group-title="A1XS",A1Xs 300001
+https://a1xs.vip/300001
+#EXTINF:-1 group-title="A1XS",A1Xs 300002
+https://a1xs.vip/300002
+#EXTINF:-1 group-title="A1XS",A1Xs 300003
+https://a1xs.vip/300003
+#EXTINF:-1 group-title="A1XS",A1Xs 300004
+https://a1xs.vip/300004
+#EXTINF:-1 group-title="A1XS",A1Xs 300005
+https://a1xs.vip/300005
+#EXTINF:-1 group-title="A1XS",A1Xs 300006
+https://a1xs.vip/300006
+#EXTINF:-1 group-title="A1XS",A1Xs 300007
+https://a1xs.vip/300007
+#EXTINF:-1 group-title="A1XS",A1Xs 300008
+https://a1xs.vip/300008
+#EXTINF:-1 group-title="A1XS",A1Xs 300009
+https://a1xs.vip/300009
+#EXTINF:-1 group-title="A1XS",A1Xs 300010
+https://a1xs.vip/300010
+#EXTINF:-1 group-title="A1XS",A1Xs 300011
+https://a1xs.vip/300011
+#EXTINF:-1 group-title="A1XS",A1Xs 300012
+https://a1xs.vip/300012
+#EXTINF:-1 group-title="A1XS",A1Xs 300013
+https://a1xs.vip/300013
+#EXTINF:-1 group-title="A1XS",A1Xs 300014
+https://a1xs.vip/300014
+#EXTINF:-1 group-title="A1XS",A1Xs 300015
+https://a1xs.vip/300015
+#EXTINF:-1 group-title="A1XS",A1Xs 300016
+https://a1xs.vip/300016
+#EXTINF:-1 group-title="A1XS",A1Xs 300030
+https://a1xs.vip/300030
+#EXTINF:-1 group-title="A1XS",A1Xs 300031
+https://a1xs.vip/300031
+#EXTINF:-1 group-title="A1XS",A1Xs 300032
+https://a1xs.vip/300032
+#EXTINF:-1 group-title="A1XS",A1Xs 300033
+https://a1xs.vip/300033
+#EXTINF:-1 group-title="A1XS",A1Xs 300034
+https://a1xs.vip/300034
+#EXTINF:-1 group-title="A1XS",A1Xs 300035
+https://a1xs.vip/300035
+#EXTINF:-1 group-title="A1XS",A1Xs 300036
+https://a1xs.vip/300036
+#EXTINF:-1 group-title="A1XS",A1Xs 300037
+https://a1xs.vip/300037
+#EXTINF:-1 group-title="A1XS",A1Xs 300038
+https://a1xs.vip/300038
+#EXTINF:-1 tvg-id="a1xs_400050" tvg-name="A1Xs 400050" group-title="A1XS",A1Xs 400050
+https://a1xs.vip/400050
+#EXTINF:-1 tvg-id="a1xs_400051" tvg-name="A1Xs 400051" group-title="A1XS",A1Xs 400051
+https://a1xs.vip/400051
+#EXTINF:-1 tvg-id="a1xs_400052" tvg-name="A1Xs 400052" group-title="A1XS",A1Xs 400052
+https://a1xs.vip/400052
+#EXTINF:-1 tvg-id="a1xs_400053" tvg-name="A1Xs 400053" group-title="A1XS",A1Xs 400053
+https://a1xs.vip/400053
+
+# === api.toonamiaftermath.com:3000 (3 channels) ===
+#EXTINF:-1 group-title="TOONAMI",Toonami Est Playlist
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="toonami_movies" tvg-name="Toonami Movies" group-title="API",Toonami Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 group-title="TOONAMI",Toonami Pst Playlist
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
+# === cvtv.cvalley.net (3 channels) ===
+#EXTINF:-1 group-title="CVALLEY",Cvalley Kmizmetv
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+#EXTINF:-1 group-title="CVALLEY",Cvalley Komucw
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 group-title="CVALLEY",Cvalley Krcgcomet
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+
+# === nbcu-telemundoflorida-firetv.amagi.tv (3 channels) ===
+#EXTINF:-1 group-title="NBCU",Nbcu Telemundoflorida
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NBCU",Nbcu Telemundoflorida 1080P
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:-1 group-title="NBCU",Nbcu Telemundoflorida 720P
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist720.m3u8
+
+# === streamer1.nexgen.bz (27 channels) ===
+#EXTINF:-1 group-title="NEXGEN",Nexgen Amc
+https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Bet
+https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Bounce
+https://streamer1.nexgen.bz/BOUNCE/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Bravo
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Cinemax
+https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="nexgen_COMEDY_CENTRAL" tvg-name="Nexgen Comedy Central" group-title="STREAMER1",Nexgen Comedy Central
+https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Discovery
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="nexgen_FUSE" tvg-name="Nexgen Fuse" group-title="STREAMER1",Nexgen Fuse
+https://streamer1.nexgen.bz/FUSE/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Fx
+https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Get
+https://streamer1.nexgen.bz/GET/index.m3u8
+#EXTINF:-1 tvg-id="nexgen_GSN" tvg-name="Nexgen Gsn" group-title="STREAMER1",Nexgen Gsn
+https://streamer1.nexgen.bz/GSN/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Hallmark
+https://streamer1.nexgen.bz/HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="nexgen_HBO2" tvg-name="Nexgen Hbo2" group-title="STREAMER1",Nexgen Hbo2
+https://streamer1.nexgen.bz/HBO2/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Lifetime
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="nexgen_LMN" tvg-name="Nexgen Lmn" group-title="STREAMER1",Nexgen Lmn
+https://streamer1.nexgen.bz/LMN/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Mtv
+https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id="nexgen_OUTDOOR" tvg-name="Nexgen Outdoor" group-title="STREAMER1",Nexgen Outdoor
+https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Paramount
+https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Syfy
+https://streamer1.nexgen.bz/SYFY/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Tbs
+https://streamer1.nexgen.bz/TBS/index.m3u8
+#EXTINF:-1 tvg-id="nexgen_TCM" tvg-name="Nexgen Tcm" group-title="STREAMER1",Nexgen Tcm
+https://streamer1.nexgen.bz/TCM/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Tlc
+https://streamer1.nexgen.bz/TLC/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Tnt
+https://streamer1.nexgen.bz/TNT/index.m3u8
+#EXTINF:-1 tvg-id="nexgen_TRUTV" tvg-name="Nexgen Trutv" group-title="STREAMER1",Nexgen Trutv
+https://streamer1.nexgen.bz/TRUTV/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Usa
+https://streamer1.nexgen.bz/USA/index.m3u8
+#EXTINF:-1 group-title="NEXGEN",Nexgen Vh1
+https://streamer1.nexgen.bz/VH1/index.m3u8
